@@ -1,0 +1,1 @@
+// Deprecated: main.tsx is the primary entry point for this Vite project.
